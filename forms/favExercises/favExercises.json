@@ -16,7 +16,34 @@
         "forms",
         "favExercises",
         "Elements",
-        "selExercises.json"
+        "selExercisesLH.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "favExercises",
+        "Elements",
+        "btnDoneLH.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "favExercises",
+        "Elements",
+        "lblPrompt3LH.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "favExercises",
+        "Elements",
+        "btnGoTo3LH.json"
       ]
     }
   ],

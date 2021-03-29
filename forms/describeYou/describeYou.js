@@ -7,3 +7,7 @@ rbtnPersonalityLH.onchange=function(){
    console.log(`You picked ${userChoice}`)
 }
 
+
+btnGoTo2LH.onclick=function(){
+  ChangeForm(favExercises)
+}

@@ -27,6 +27,24 @@
         "Elements",
         "rbtnPersonalityLH.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "describeYou",
+        "Elements",
+        "btnGoTo2LH.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "describeYou",
+        "Elements",
+        "lblResponseLH.json"
+      ]
     }
   ],
   "class": "",
