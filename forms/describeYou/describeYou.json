@@ -16,7 +16,16 @@
         "forms",
         "describeYou",
         "Elements",
-        "lblPrompt2.json"
+        "lblPrompt2LH.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "describeYou",
+        "Elements",
+        "rbtnPersonalityLH.json"
       ]
     }
   ],
